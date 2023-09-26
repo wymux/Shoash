@@ -136,3 +136,16 @@ p.pre {
 #cb:checked ~ #content {
     margin: 60px 30px 30px 30px; 
 }
+
+table,
+td {
+    align: center;
+    border: 1px solid #333333;
+    padding: 20px;
+}
+
+thead,
+tfoot {
+    background-color: #333333;
+    color: #FFFFFF;
+}
